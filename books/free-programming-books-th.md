@@ -32,3 +32,6 @@ Chaiyarin Niamsuwan
 ### Python
 
 * [Python ๑๐๑](https://www.cp.eng.chula.ac.th/books/python101/) - กิตติภณ พละการ, กิตติภพ พละการ, สมชาย ประสิทธิ์จูตระกูล , สุกรี สินธุภิญโญ
+* [การโปรแกรมมิ่งสำหรับงานสารสนเทศ-มมส-2565] (https://dsdi.msu.ac.th/articles/programming/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%A1%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%A8-%E0%B8%A1%E0%B8%A1%E0%B8%AA-2565.pdf) - จักรกฤษณ์ แสงแก้ว (msu)
+* [การเขียนโปรแกรมภาษาไพทอน
+ด้วยการเรียนรู้ด้วยตนเอง] (https://www.cpe.ku.ac.th/~pattara/204111/pattara_python_book.pdf) - ภัทร ลีลาพฤทธิ (ku)
